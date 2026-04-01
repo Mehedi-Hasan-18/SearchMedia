@@ -78,9 +78,6 @@ This project is open-source and free to use.
 Author
 
 Developed by Mehedi Hasan
-- or add deployment section (Vercel/Netlify)
-
-Just tell me 👍
 
 
 
