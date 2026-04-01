@@ -1,8 +1,4 @@
-Here’s a clean and professional `README.md` for your project 👇
 
----
-
-```md
 # Media Search Web App
 
 A responsive web application that allows users to search and explore high-quality photos and videos instantly. Users can browse, save, and download media with a smooth and modern UI experience.
@@ -31,33 +27,7 @@ A responsive web application that allows users to search and explore high-qualit
 - REST APIs (for media data)
 - LocalStorage (for saved collection)
 
----
 
-## Project Structure
-
-```
-
-src/
-│
-├── components/
-│   ├── Navbar.jsx
-│   ├── SearchBar.jsx
-│   ├── Tabs.jsx
-│   ├── ResultGrid.jsx
-│   ├── ResultCard.jsx
-│
-├── redux/
-│   └── features/
-│       ├── searchSlice.js
-│       ├── collectionSlice.js
-│
-├── api/
-│   └── mediaApi.js
-│
-├── App.jsx
-└── main.jsx
-
-````
 
 ---
 
@@ -86,43 +56,29 @@ npm install
 
 # Start development server
 npm run dev
-````
-
----
-
-## Future Improvements
-
-* Collections page UI
-* Infinite scrolling
-* GIF support integration
-* User authentication
-* Cloud storage for saved items
-
----
-
-## Learning Outcomes
+Future Improvements
+Collections page UI
+Infinite scrolling
+GIF support integration
+User authentication
+Cloud storage for saved items
+Learning Outcomes
 
 This project helped me improve:
 
-* Redux Toolkit state management
-* API integration in React
-* Component-based architecture
-* Tailwind CSS styling
-* Handling browser features like localStorage and file download
-
----
-
-## License
+Redux Toolkit state management
+API integration in React
+Component-based architecture
+Tailwind CSS styling
+Handling browser features like localStorage and file download
+License
 
 This project is open-source and free to use.
 
----
-
-## Author
+Author
 
 Developed by Mehedi Hasan
 
-```
 
 ---
 
@@ -132,4 +88,6 @@ If you want, I can also:
 - or add deployment section (Vercel/Netlify)
 
 Just tell me 👍
-```
+
+
+
