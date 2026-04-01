@@ -78,13 +78,6 @@ This project is open-source and free to use.
 Author
 
 Developed by Mehedi Hasan
-
-
----
-
-If you want, I can also:
-- add badges (React, Redux, license, etc.)
-- make it GitHub portfolio-ready premium style
 - or add deployment section (Vercel/Netlify)
 
 Just tell me 👍
